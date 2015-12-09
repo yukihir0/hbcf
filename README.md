@@ -1,4 +1,4 @@
-# hbn
+# hbcf
 
 "hbcf" is library for hatena bookmark collaborative filtering.
 
